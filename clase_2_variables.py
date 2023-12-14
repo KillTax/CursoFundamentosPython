@@ -12,3 +12,7 @@ print("Mi nombre es: " + my_name)
 my_name = input("Cual es tu nombre?")
 
 print("El nombre que me diste es :" + str(my_name))
+
+my_age = input("Cual es tu edad?")
+
+print("La edad que me diste es: " +  str(my_age))
